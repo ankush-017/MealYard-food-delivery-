@@ -1,0 +1,7 @@
+.header{
+    background: url('../../assets/header_img.png') no-repeat;
+    background-size: cover;
+}
+.header-contents{
+    animation: fadeIn 3s;
+}

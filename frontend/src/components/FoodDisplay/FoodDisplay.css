@@ -1,0 +1,4 @@
+.food-display-img{
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    row-gap: 30px;
+}
